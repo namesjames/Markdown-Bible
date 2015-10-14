@@ -8,8 +8,16 @@ _^if you're wondering how to insert emojis, `command+control+space` brings up th
 # Basics:
 
 ## Headings:
-We can set different heading sizes with the # symbol (H1-H6 = #-######)
+We can set different heading sizes with the # symbol 
+
 closing with # is _optional_
+
+`#H1` 
+`##H2`
+`###H3`
+`####H4`
+`#####H5`
+`######H6` =
 
 # H1 
 ## H2
@@ -20,8 +28,9 @@ closing with # is _optional_
 
 ## Text:
 
-**BOLD** = we use ** before and after ** or __ text ___
-_italicized_ = we use _ before and after _ or * text *
+**BOLD** = `**before and after**` or `__text___`
+
+_italicized_ = we use `_before and after_` or `*text*`
 
 ##[Hyperlinks:](http://www.#)
 
@@ -50,6 +59,6 @@ add **`** before and after your code snipet
 ## BONUS: Images!!!
 Simply use: `![Alt Text](url)`
 
-![alt text](http://bibledraft.com/Images/BibleLogo.png)
+![Markdown Bible](http://bibledraft.com/Images/BibleLogo.png)
 
-_This Repo was Made for Fun by, [∫ª/\/\£$](http://www.namesjames.com/)_
+_This Repo was Made for Fun by, [∫ª/\/\£$](http://www.namesjames.com/)_ 💭
